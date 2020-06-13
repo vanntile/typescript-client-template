@@ -1,0 +1,8 @@
+.jest
+src
+.editorconfig
+.eslintignore
+.eslintrc
+.prettierrc
+jest.config.json
+tsconfig.json
